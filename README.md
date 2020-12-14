@@ -1,2 +1,0 @@
-# OMS
-Order Management System
